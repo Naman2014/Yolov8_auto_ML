@@ -1,0 +1,6 @@
+names:
+- cat
+- bus
+nc: 2
+train: data\train
+val: data\val
